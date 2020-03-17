@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mySeekBar</string>
+    <string name="mySeekBarTxView">TextView</string>
+    <string name="pain_level">What is your pain level on a scale from 1 to 10?</string>
+</resources>
